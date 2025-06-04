@@ -4,7 +4,7 @@ import './Home.css'
 
 const Home = ()=> {
     return (
-        <div className="pokeflex">
+        <div className="Home">
             <img src={poke} />
             <img src={eevee} />
             <img src={poke} />
